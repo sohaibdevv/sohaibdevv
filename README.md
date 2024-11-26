@@ -2,7 +2,8 @@
 Hi! My name is Sohaib Malik😄
 ========================================================================================================================================
 <br/>
-    
+🌏 Aspiring Software Developer based in Karachi, Pakistan
+
 
     
 ### Socials
