@@ -8,7 +8,7 @@ Hi! My name is Sohaib Malik😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 <br/>
     
 ### Socials
