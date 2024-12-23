@@ -9,15 +9,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 <br/>
-    
+
+### Certifications & Badges
+[![Credly Icon](https://info.credly.com/hubfs/Credly_images_2022/Logo.svg)](https://www.credly.com/users/sohaibmalikdev)
+
 ### Socials
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sohaibmalikdev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-    
+
+
+</div>    
 </body>
 </html>
     
