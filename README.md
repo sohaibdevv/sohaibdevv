@@ -1,8 +1,8 @@
-Hi! My name is Sohaib Malik😄
-========================================================================================================================================
+# Hi! My name is Sohaib Malik😄
+
 🌏 Aspiring Software Developer based in Karachi, Pakistan
 <br/><br/>
-🙂 I'm currently learning and exploring new skills and technologies to stay up-to-date with modern development practices
+🙂 I'm currently learning and exploring new skills and technologies to stay up-to-date with modern development practices.
 <br/>
 
 ### Skills
