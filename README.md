@@ -1,7 +1,7 @@
 # Hi! My name is Sohaib Malik😄
 
 🌏 Aspiring Software Developer based in Karachi, Pakistan
-<br/><br/>
+<br/>
 🙂 I'm currently learning and exploring new skills and technologies to stay up-to-date with modern development practices.
 <br/>
 
@@ -19,11 +19,12 @@
     <a href="https://www.linkedin.com/in/sohaibmalikdev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</br>
 <!-- </br> -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@sohaibmalikdev">
+    <a href="https://medium.com/@sohaibmalikdev">
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  </div>
  
 </div>    
 </body>
