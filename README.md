@@ -16,11 +16,15 @@
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sohaibmalikdev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/sohaibmalikdev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-
+<!-- </br> -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sohaibmalikdev">
+     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+ 
 </div>    
 </body>
 </html>
