@@ -2,7 +2,7 @@
 
 🌏 Aspiring Software Engineer based in Karachi, Pakistan.
 <br/>
-🙂 I'm learning and trying new technologies to stay current with modern development practices.
+🙂 I often try out different tools and methods to keep up with how software is built these days. 
 <br/>
 
 ### Skills
