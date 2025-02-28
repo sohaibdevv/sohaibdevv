@@ -2,8 +2,7 @@
 
 🌏 Aspiring Software Engineer based in Karachi, Pakistan.
 <br/>
-🙂 I often try out different tools and methods to keep up with how software is built these days. 
-<br/>
+
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
