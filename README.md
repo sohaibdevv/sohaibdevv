@@ -4,8 +4,8 @@
 <br/>
 
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+### Technologies and Tools I Used
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### Certifications & Badges
 [![Credly Icon](https://info.credly.com/hubfs/Credly_images_2022/Logo.svg)](https://www.credly.com/users/sohaibmalikdev)
