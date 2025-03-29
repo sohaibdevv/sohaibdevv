@@ -1,4 +1,4 @@
-# Hi! My name is Sohaib Malik😄
+# Hi! My name is Sohaib Malik 😄
 
 🌏 I am an Aspiring Software Engineer, based in Karachi, Pakistan.
 <br/>
