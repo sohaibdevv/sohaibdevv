@@ -1,7 +1,8 @@
-# Hi! My name is Sohaib Malik 😄
+# Hi, I'm Sohaib Malik 😄
 
-🌏 I am an Aspiring Software Engineer, based in Karachi, Pakistan.
+🌏 An Aspiring Software Engineer
 <br/>
+💻 Currently exploring and learning modern development technologies
 
 
 ### Technologies and Tools I Used
