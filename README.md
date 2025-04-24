@@ -6,7 +6,7 @@
 
 
 ### Technologies and Tools I Used
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jest,scss,mongodb,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,scss,mongodb,git,figma)](https://skillicons.dev)
 
 
 ### Certifications & Badges
