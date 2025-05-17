@@ -6,7 +6,9 @@
 
 
 ### Technologies and Tools I Used
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,scss,tailwind,mongodb,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,scss,tailwind,figma)](https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,git,githubcopilot&titles=true&theme=dark)
 
 
 ### Certifications & Badges
