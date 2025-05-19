@@ -1,6 +1,6 @@
 # Hi, I'm Sohaib Malik 😄
 
-💻 An Aspiring Software Engineer
+💻 A Software Engineer
 <br/>
 🌏 Currently exploring and learning modern development technologies
 
