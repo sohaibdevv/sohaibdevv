@@ -2,7 +2,7 @@
 
 💻 A Software Engineer
 <br/>
-🌏 Currently exploring and learning modern development technologies
+🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.
 
 
 ### Technologies and Tools I Used
