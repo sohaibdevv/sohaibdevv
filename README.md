@@ -5,7 +5,7 @@
 🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.
 
 
-### Technologies and Tools I Used
+### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,next,scss,tailwind,figma)](https://skillicons.dev)
 </br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,git,githubcopilot&titles=true&theme=dark)
