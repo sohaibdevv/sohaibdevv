@@ -8,7 +8,7 @@
 ### Tech stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,next,tailwind,scss,figma)](https://skillicons.dev)
 </br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,githubcopilot,git&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,githubcopilot,git&titles=true&theme=dark)
 
 
 ### Certifications & Badges
