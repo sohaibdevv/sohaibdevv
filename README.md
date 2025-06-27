@@ -23,10 +23,6 @@
     <a href="https://medium.com/@sohaibmalikdev">
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
-</br>
-  <a href="https://leetcode.com/u/sohaibdevv/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
-  </a>
 </div>
  
 </div>    
