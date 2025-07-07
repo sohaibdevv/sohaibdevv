@@ -14,12 +14,8 @@
 ### Certifications & Badges
 [![Credly Icon](https://info.credly.com/hubfs/Credly_images_2022/Logo.svg)](https://www.credly.com/users/sohaibmalikdev)
 
-### Socials
+### Platforms
 <div id="badges">
-<!--     <a href="https://www.linkedin.com/in/sohaibmalikdev"> -->
-<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/> -->
-<!--   </a> -->
-<!-- </br> -->
     <a href="https://medium.com/@sohaibmalikdev">
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
