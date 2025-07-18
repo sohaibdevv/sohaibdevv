@@ -5,9 +5,9 @@
 🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.
 
 ### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,react,next,tailwind,scss,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,figma)](https://skillicons.dev)
 </br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,gemini,githubcopilot,git&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,git,gemini,githubcopilot&titles=true&theme=dark)
 
 
 ### Certifications & Badges
