@@ -19,12 +19,6 @@
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
- 
-</div>    
-</body>
-</html>
-    
-<!---
-sohvibdev/sohvibdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</br>
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=sohaibdevv&color=green&style=for-the-badge&label=Profile+Views)
