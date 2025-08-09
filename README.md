@@ -10,7 +10,7 @@
   <a href="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Tech Skills">
   </a>
-</br>   
+</br>
   <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Programming Languages and Tools">
   </a>
@@ -25,8 +25,14 @@
 
 <h3>Platforms</h3>
 <p>
+  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile - Sohaib Malik">
+  </a>
+</p>
+<p>
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
 </p>
+</br>
 <img src="https://komarev.com/ghpvc/?username=sohaibdevv&color=green&style=for-the-badge&label=Profile+Views" alt="GitHub Profile Views">
