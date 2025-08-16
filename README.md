@@ -1,18 +1,17 @@
 <h1>Hi, I'm Sohaib Malik 😄</h1>
 
-<p>
-  💻 A Software Engineer based in Karachi, Pakistan<br/>
-  <span>🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.</span>
-</p>
+<p>💻 A Software Engineer based in Karachi, Pakistan</p>
+<p>🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
+<p>💬 Ask me about my Tech Stack and Developer Journey.</p>
 
 <h3>Tech Stack</h3>
 <p>
   <a href="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Tech Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Front-End Tech Stack">
   </a>
 </br>
   <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Programming Languages and Tools">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
