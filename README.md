@@ -29,6 +29,11 @@
   </a>
 </p>
 <p>
+  <a href="https://www.linkedin.com/in/sohaib-m-malik/" rel="nofollow">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile - Sohaib Malik">
+  </a>
+</p>
+<p>
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
