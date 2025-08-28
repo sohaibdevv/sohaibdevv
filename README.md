@@ -10,8 +10,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Front-End Tech Stack">
   </a>
 </br>
-  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,mysql,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
+  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
