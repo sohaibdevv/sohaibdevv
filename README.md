@@ -11,7 +11,7 @@
   </a>
 </br>
   <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,git,githubcopilot,gemini&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,sqlserver,blazor,githubcopilot,gemini,git,docker,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
@@ -26,6 +26,11 @@
 <p>
   <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile - Sohaib Malik">
+  </a>
+</p>
+<p>
+  <a href="https://sohaibmalikdev-portfolio.netlify.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=&logoColor=#FF7139" alt="Medium Profile - Sohaib Malik">
   </a>
 </p>
 <p>
