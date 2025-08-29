@@ -10,8 +10,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Front-End Tech Stack">
   </a>
 </br>
-  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,git,githubcopilot,gemini&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,sqlserver,blazor,githubcopilot,gemini,git,docker,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
+  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubcopilot,gemini,git&titles=true&theme=dark" rel="nofollow">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubcopilot,gemini,git&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 </p>
 <p>
   <a href="https://sohaibmalikdev-portfolio.netlify.app/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=&logoColor=#FF7139" alt="Medium Profile - Sohaib Malik">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
   </a>
 </p>
 <p>
