@@ -13,6 +13,10 @@
   <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubcopilot,gemini,git&titles=true&theme=dark" rel="nofollow">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubcopilot,gemini,git&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
+<!--   </br>
+  <a href="https://go-skill-icons.vercel.app/api/icons?i=azuredevops,azure&titles=true&theme=dark" rel="nofollow">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azuredevops,azure&titles=true&theme=dark" alt="Tech Stack and Tools">
+  </a> -->
 </p>
 
 <h3>Certifications & Badges</h3>
