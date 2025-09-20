@@ -49,5 +49,3 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
 </p>
-</br>
-<img src="https://komarev.com/ghpvc/?username=sohaibdevv&color=green&style=for-the-badge&label=Profile+Views" alt="GitHub Profile Views">
