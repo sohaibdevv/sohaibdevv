@@ -49,3 +49,44 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
 </p>
+<p>
+<a href="https://huggingface.co/sohaibdevv">
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" 
+       alt="Sohaib Malik Hugging profile">
+</a>
+
+</p>
+
+<h3>GitHub Stats</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Stats</th>
+      <th>Streak</th>
+      <th>Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/sohaibdevv">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohaibdevv&theme=blueberry" 
+               alt="Sohaib Malik GitHub Stats showing contributions and commits">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sohaibdevv">
+          <img src="https://streak-stats.demolab.com?user=sohaibdevv&theme=blueberry&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=4C8EDA" 
+               alt="Sohaib Malik GitHub Streak showing coding consistency">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sohaibdevv">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=blueberry" 
+               alt="Sohaib Malik GitHub Languages Used in repositories">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
