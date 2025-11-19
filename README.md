@@ -16,8 +16,8 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
   </a>
   </br>
-  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,gemini,docker,azuredevops,azure,git&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubactions,docker,azuredevops,gemini,azure,git&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
+  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,gemini,docker,azuredevops,git,azure&titles=true&theme=dark" rel="nofollow">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubactions,docker,azuredevops,git,gemini,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
