@@ -62,7 +62,7 @@
   <thead>
     <tr>
       <th>Stats</th>
-      <th>Streak</th>
+      <!-- <th>Streak</th> -->
       <th>Languages</th>
     </tr>
   </thead>
@@ -74,12 +74,12 @@
                alt="Sohaib Malik GitHub Stats showing contributions and commits">
         </a>
       </td>
-      <td>
+      <!-- <td>
         <a href="https://github.com/sohaibdevv">
           <img src="https://streak-stats.demolab.com?user=sohaibdevv&theme=blueberry&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=4C8EDA" 
-               alt="Sohaib Malik GitHub Streak showing coding consistency">
+               alt="Sohaib Malik GitHub Streak showing coding">
         </a>
-      </td>
+      </td> -->
       <td>
         <a href="https://github.com/sohaibdevv">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=blueberry" 
