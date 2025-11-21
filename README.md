@@ -57,15 +57,15 @@
 
 </p>
 
-<h3>GitHub Stats</h3>
+<!-- <h3>GitHub Stats</h3>
 <table>
-  <!-- <thead>
+    <thead>
     <tr>
       <th>Stats</th>
       <th>Streak</th>
       <th>Languages</th>
     </tr>
-  </thead> -->
+  </thead>
   <tbody>
     <tr>
       <td>
@@ -88,5 +88,5 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
