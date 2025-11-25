@@ -35,13 +35,13 @@
   </a>
 </p>
 <p>
-  <a href="https://sohaibmalikdev-portfolio.netlify.app/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
+  <a href="https://www.linkedin.com/in/sohaib-m-malik/" rel="nofollow">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile - Sohaib Malik">
   </a>
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/sohaib-m-malik/" rel="nofollow">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile - Sohaib Malik">
+  <a href="https://sohaibmalikdev-portfolio.netlify.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
   </a>
 </p>
 <p>
