@@ -17,7 +17,7 @@
   </a>
   </br>
   <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,gemini,docker,azuredevops,git,azure&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,githubactions,docker,azuredevops,git,gemini,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,docker,githubactions,azuredevops,git,gemini,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
   </a>
 </p>
 
