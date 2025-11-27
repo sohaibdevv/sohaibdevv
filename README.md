@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sohaib Malik 😄</h1>
 
-<div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="GitHub Profile Views"></div>
+<div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
 <p>💻 A Software Engineer based in Karachi, Pakistan</p>
 <p>🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
