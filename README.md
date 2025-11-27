@@ -8,18 +8,13 @@
 
 <h3>Tech Stack</h3>
 <p>
-  <a href="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Sohaib Malik's Front-End Tech Stack">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Front-End Tech Stack">
 </br>
-  <a href="https://go-skill-icons.vercel.app/api/icons?i=python,flask,githubcopilot&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,django,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
-  </a>
-  </br>
-  <a href="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,gemini,docker,azuredevops,git,azure&titles=true&theme=dark" rel="nofollow">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,docker,git,githubactions,azuredevops,gemini,azure&titles=true&theme=dark" alt="Sohaib Malik's Back-End Tech Stack and Tools">
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
+</br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,docker,git,githubactions,azuredevops,gemini,azure&titles=true&theme=dark" alt="Back-End Tech Stack and Tools">
 </p>
+
 
 <h3>Certifications & Badges</h3>
 <p>
