@@ -12,7 +12,7 @@
 </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
 </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,blazor,docker,git,githubactions,azuredevops,gemini,azure&titles=true&theme=dark" alt="Back-End Tech Stack and Tools">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,blazor,docker,git,githubactions,azuredevops,azure&titles=true&theme=dark" alt="Back-End Tech Stack and Tools">
 </p>
 
 
@@ -49,10 +49,7 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" 
        alt="Sohaib Malik Hugging profile">
 </a>
-
 </p>
-
-
 <p>
 <a href="https://github.com/sohaibdevv">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=blueberry" 
