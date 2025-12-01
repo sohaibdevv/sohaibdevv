@@ -35,7 +35,7 @@
   </a>
 </p>
 <p>
-  <a href="https://sohaibmalikdev-portfolio.netlify.app/" rel="nofollow">
+  <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
   </a>
 </p>
