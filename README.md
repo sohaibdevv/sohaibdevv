@@ -7,14 +7,22 @@
 <p>💬 Ask me about my Tech Stack and Developer Journey.</p>
 
 <h3>Tech Stack</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma" alt="Front-End Tech Stack">
-</br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
-</br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,blazor,docker,git,githubactions,azuredevops,azure&titles=true&theme=dark" alt="Back-End Tech Stack and Tools">
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=githubactions,azure)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot&theme=dark)](https://go-skill-icons.vercel.app)
+
+
+
+<!-- <p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,matplotlib,tensorflow,pytorch,langchain,huggingface,githubcopilot&titles=true&theme=dark" alt="Tech Stack and Tools">
+</br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,mongodb,figma,git,githubactions,azuredevops,azure" alt="Front-End Tech Stack">
+</br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,blazor,docker,git,&titles=true&theme=dark" alt="Back-End Tech Stack and Tools"> -->
+<!-- </p> -->
 
 <h3>Certifications & Badges</h3>
 <p>
