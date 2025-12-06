@@ -55,8 +55,12 @@
 </a>
 </p>
 <p>
-<a href="https://github.com/sohaibdevv">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=blueberry" 
-               alt="Sohaib Malik GitHub Languages Used in repositories">
-</a>
+  <a href="https://github.com/sohaibdevv">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=github_dark" height="150" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/sohaibdevv">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohaibdevv&theme=github_dark" height="150" />
+  </a>
 </p>
