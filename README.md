@@ -2,9 +2,9 @@
 
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
-<p>💻 A Software Engineer based in Karachi, Pakistan</p>
-<p>🌏 I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
-<p>💬 Ask me about my Tech Stack and Developer Journey.</p>
+<p>A Software Engineer based in Karachi, Pakistan</p>
+<p>I'm a lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
+<p>Ask me about my Tech Stack and Developer Journey.</p>
 
 <h3>Tech Stack</h3>
 
