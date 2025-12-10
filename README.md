@@ -54,13 +54,4 @@
        alt="Sohaib Malik Hugging profile">
 </a>
 </p>
-<!-- <p>
-  <a href="https://github.com/sohaibdevv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibdevv&theme=github_dark" height="150" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/sohaibdevv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohaibdevv&theme=github_dark" height="150" />
-  </a>
-</p> -->
+
