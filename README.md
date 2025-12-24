@@ -20,6 +20,12 @@
     <img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Credly Profile - Sohaib Malik">
   </a>
 </p>
+<p>
+  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
+    <!-- <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile - Sohaib Malik"> -->
+    <img src="https://img.shields.io/badge/-0056D2?style=flat&logo=coursera&logoColor=white" width="60" height="60">
+  </a>
+</p>
 
 <h3>Platforms</h3>
 <p>
@@ -35,11 +41,6 @@
 <p>
   <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
-  </a>
-</p>
-<p>
-  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
-    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile - Sohaib Malik">
   </a>
 </p>
 <p>
