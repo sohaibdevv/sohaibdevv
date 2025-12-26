@@ -2,7 +2,6 @@
 
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
-<!-- <p>A Software Engineer based in Karachi, Pakistan</p> -->
 <p>A lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
 <p>Ask me about my Tech Stack and Developer Journey.</p>
 
@@ -22,7 +21,6 @@
 </p>
 <p>
   <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
-    <!-- <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile - Sohaib Malik"> -->
     <img src="https://img.shields.io/badge/-0056D2?style=flat&logo=coursera&logoColor=white" width="60" height="60" alt="Coursera - Sohaib Malik">
   </a>
 </p>
