@@ -32,11 +32,6 @@
   </a>
 </p>
 <p>
-  <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
-  </a>
-</p>
-<p>
 <a href="https://www.kaggle.com/sohaibdevv">
   <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=20BEFF" 
        alt="Sohaib Malik Kaggle profile">
@@ -47,6 +42,11 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" 
        alt="Sohaib Malik Hugging profile">
 </a>
+</p>
+<p>
+  <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
+  </a>
 </p>
 <p>
   <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow">
