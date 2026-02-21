@@ -1,19 +1,17 @@
 <h1>Hi, I'm Sohaib Malik 😄</h1>
 
-<div align='right'>
-    <img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views">
-</div>
+<div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
 <p>A lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
 <p>Ask me about my Tech Stack and Developer Journey.</p>
 
 <h3>Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=flask,sklearn)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=githubactions,azure)](https://skillicons.dev) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot&theme=dark)](https://go-skill-icons.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=flask,sklearn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</br>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=githubactions,azure)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot&theme=dark)](https://go-skill-icons.vercel.app)
 
 <h3>Certifications & Badges</h3>
 <p>
@@ -34,14 +32,16 @@
   </a>
 </p>
 <p>
-  <a href="https://www.kaggle.com/sohaibdevv">
-    <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Sohaib Malik Kaggle profile">
-  </a>
+<a href="https://www.kaggle.com/sohaibdevv">
+  <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=20BEFF" 
+       alt="Sohaib Malik Kaggle profile">
+</a>
 </p>
 <p>
-  <a href="https://huggingface.co/sohaibdevv">
-    <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="Sohaib Malik Hugging profile">
-  </a>
+<a href="https://huggingface.co/sohaibdevv">
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" 
+       alt="Sohaib Malik Hugging profile">
+</a>
 </p>
 <p>
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
