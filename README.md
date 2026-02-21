@@ -53,4 +53,3 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
   </a>
 </p>
-
