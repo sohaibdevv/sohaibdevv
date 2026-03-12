@@ -43,16 +43,16 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" 
        alt="Sohaib Malik Hugging profile">
 </a>
+</p> 
+<p>
+<a href="https://lablab.ai/u/@sohaib307">
+<img src="https://img.shields.io/badge/Lablab.ai-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Lablab.ai">
+</a>
+</p>
 <p>
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
-</p>
-<p>
-  <a href="https://lablab.ai/u/@sohaib307" rel="nofollow">
-    <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?style=for-the-badge&logo" alt="Lablab.ai - Sohaib Malik">
-  </a>
-</p>
 </p>
 <p>
   <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow">
