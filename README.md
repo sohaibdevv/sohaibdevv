@@ -45,11 +45,6 @@
 </a>
 </p> 
 <p>
-<a href="https://lablab.ai/u/@sohaib307">
-<img src="https://img.shields.io/badge/Lablab.ai-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Lablab.ai">
-</a>
-</p>
-<p>
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Profile - Sohaib Malik">
   </a>
