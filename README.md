@@ -22,7 +22,7 @@
 </p>
 <p>
   <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
-    <img src="https://img.shields.io/badge/-0056D2?style=flat&logo=coursera&logoColor=white" width="60" height="60" alt="Coursera - Sohaib Malik">
+    <img src="https://img.shields.io/badge/-0056D2?style=flat&logo=coursera&logoColor=white" width="60" height="50" alt="Coursera - Sohaib Malik">
   </a>
 </p>
 
