@@ -22,12 +22,12 @@
 </p>
 <p>
   <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow">
-    <img src="https://img.shields.io/badge/-0056D2?style=flat&logo=coursera&logoColor=white" width="60" alt="Coursera - Sohaib Malik">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" width="50" alt="Coursera - Sohaib Malik">
   </a>
 </p>
 <p>
    <a href="https://www.skills.google/public_profiles/3a266196-9e36-4e07-9094-24bdeb4556d8" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Skills - Sohaib Malik" vertical-align="middle">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="Google Skills - Sohaib Malik" vertical-align="middle">
 </p>
 
 <h3>Platforms</h3>
