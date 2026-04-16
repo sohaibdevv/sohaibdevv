@@ -16,9 +16,9 @@
 
 <h3>Certifications & Badges</h3>
 <p>
-  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/coursera/0056D2" height="55" alt="Coursera"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.skills.google/public_profiles/3a266196-9e36-4e07-9094-24bdeb4556d8" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="55" alt="Google Skills"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/credly/FF6B00" height="60" alt="Credly Profile"></a>
+  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/coursera/0056D2" height="48" alt="Coursera" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.skills.google/public_profiles/3a266196-9e36-4e07-9094-24bdeb4556d8" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="55" alt="Google Skills" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/credly/FF6B00" height="68" alt="Credly Profile" align="center"></a>
 </p>
 
 <!-- <p>
