@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/sohaib-m-malik/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/sohaibdevv"><img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=20BEFF" height="40" alt="Kaggle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/sohaibdevv"><img src="https://img.shields.io/badge/Hugging%20Face-%23000000?style=for-the-badge&logo=huggingface&logoColor=yellow" height="40" alt="Hugging Face"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@sohaibmalikdev" rel="nofollow"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" height="40" alt="Medium"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sohaibmalikdev" rel="nofollow"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" height="40" alt="Medium"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" height="40" alt="Portfolio"></a>
 </p>
 
