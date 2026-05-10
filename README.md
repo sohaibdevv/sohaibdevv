@@ -2,7 +2,7 @@
 
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
-<p>A lifelong learner, always exploring opportunities to grow my skills and knowledge.</p>
+<p>I’m a big believer in staying curious, keeping my code simple, and building things that actually work for people.</p>
 <p>Ask me about my Tech Stack and Developer Journey.</p>
 
 <h3>Tech Stack</h3>
