@@ -2,8 +2,10 @@
 
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
-<p>I’m a big believer in staying curious, keeping my code simple, and building things that actually work for people.</p>
-<p>Ask me about my Tech Stack and Developer Journey.</p>
+<p>I believe in staying curious, keeping code simple, and building things that actually work.</p>
+<p>97% task completion rate.</p>
+<p>Ask me about my journey.</p>
+
 
 <h3>Tech Stack</h3>
 
