@@ -3,8 +3,8 @@
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
 <p>I believe in staying curious, keeping code simple, and building things that actually work.</p>
-<p>97% task completion rate.</p>
-<p>Ask me about my journey.</p>
+<p>97% task completion rate. Ask me about my journey.</p>
+<!-- <p>Ask me about my journey.</p> -->
 
 
 <h3>Tech Stack</h3>
