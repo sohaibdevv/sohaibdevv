@@ -2,8 +2,8 @@
 
 <div align = 'right'><img src="https://komarev.com/ghpvc/?username=sohaibdevv&style=flat&color=green&label=Profile+Views" alt="Profile Views"></div>
 
-<p>I believe in staying curious, keeping code simple, and building things that actually work.</p>
-<p>97% task completion rate. Ask me about my journey.</p>
+<p>A Software Engineer focused on AI/ML and Full-Stack with an academic background, residencies, and credentials across Google, Microsoft, Meta, and IBM.</p>
+<p>With a 97% task completion rate, I believe in staying curious, keeping code simple, and building things that work.</p>
 
 
 <h3>Tech Stack</h3>
