@@ -34,12 +34,3 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
   <a href="https://medium.com/@sohaibmalikdev" rel="nofollow"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" height="40" alt="Medium"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" height="40" alt="Portfolio"></a>
 </p>
-
-
-<!-- ![GitHub Copilot and Azure](assets/icons/githubcopilot,azure.svg) -->
-<!-- 
-<a href="https://go-skill-icons.vercel.app">
-  <img src="assets/icons/githubcopilot,azure.svg" alt="GitHub Copilot and Azure" width="40" />
-</a> -->
-
-<!-- <img src="assets/icons/githubcopilot,azure.svg" alt="GitHub Copilot and Azure" width="40" /> -->
