@@ -10,13 +10,13 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 
 <h3>Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
+[![HTML,CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![js,ts](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![React,Next](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tailwind,Sass](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=pytorch,gcp)](https://skillicons.dev)
+[![Python,Django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Flask,FastAPI](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Sklearn,Tensorflow](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Pytorch,GCP](https://skillicons.dev/icons?i=pytorch,gcp)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions,azuredevops&theme=dark)](https://go-skill-icons.vercel.app)
+[![CPP,CS](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![.NET,MYSQL](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Docker,Git](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GithubActions,AzureDevOps](https://go-skill-icons.vercel.app/api/icons?i=githubactions,azuredevops&theme=dark)](https://go-skill-icons.vercel.app)
 </br>
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,azure&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHubCopilot,Azure](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,azure&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>Certifications & Badges</h3>
 
