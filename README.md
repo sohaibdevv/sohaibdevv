@@ -21,7 +21,6 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 <h3>Certifications & Badges</h3>
 
 <p>
-  <a href="https://www.coursera.org/learner/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/coursera/0056D2" height="48" alt="Coursera" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/sohaibmalikdev" rel="nofollow"><img src="https://cdn.simpleicons.org/credly/FF6B00" height="80" alt="Credly Profile" align="center"></a>
 </p>
 
