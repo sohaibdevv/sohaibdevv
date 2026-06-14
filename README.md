@@ -12,7 +12,7 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 
 [![HTML,CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp; [![js,ts](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp; [![React,Next](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp; [![Tailwind,Sass](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
 </br>
-[![Python,Django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp; [![Flask,FastAPI](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp; [![Sklearn,Tensorflow](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev) &nbsp;&nbsp; [![Pytorch,GCP](https://skillicons.dev/icons?i=pytorch,gcp)](https://skillicons.dev)
+[![Python,Django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp; [![Flask,FastAPI](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp; [![Sklearn,Pytorch](https://skillicons.dev/icons?i=sklearn,pytorch)](https://skillicons.dev) &nbsp;&nbsp; [![Tensorflow,GCP](https://skillicons.dev/icons?i=tensorflow,gcp)](https://skillicons.dev)
 </br>
 [![CPP,CS](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp; [![.NET,MYSQL](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp; [![Docker,Git](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp; [![GithubActions,AzureDevOps](https://go-skill-icons.vercel.app/api/icons?i=githubactions,azuredevops&theme=dark)](https://go-skill-icons.vercel.app)
 </br>
