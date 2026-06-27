@@ -16,7 +16,7 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 </br>
 [![CPP,CS](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp; [![.NET,MYSQL](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp; [![Docker,Git](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp; [![GithubActions,AzureDevOps](https://go-skill-icons.vercel.app/api/icons?i=githubactions,azuredevops&theme=dark)](https://go-skill-icons.vercel.app)
 </br>
-[![Langchain,CrewAI](https://go-skill-icons.vercel.app/api/icons?i=langchain,crewai&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![Claude,Cursor](https://go-skill-icons.vercel.app/api/icons?i=claude,gemini&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![GitHubCopilot,Cursor](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![Azure](https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark)](https://go-skill-icons.vercel.app)
+[![Langchain,CrewAI](https://go-skill-icons.vercel.app/api/icons?i=langchain,crewai&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![Claude,Cursor](https://go-skill-icons.vercel.app/api/icons?i=claude,gemini&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![GitHubCopilot,Cursor](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![AWS,Azure](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark)](https://go-skill-icons.vercel.app)
 
 <h3>Certifications & Badges</h3>
 
