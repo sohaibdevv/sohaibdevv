@@ -10,13 +10,7 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 
 <h3>Tech Stack</h3>
 
-[![HTML,CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp; [![js,ts](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp; [![React,Next](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp; [![Tailwind,Sass](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
-</br>
-[![Python,Django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp; [![Flask,FastAPI](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp; [![Sklearn,Pytorch](https://skillicons.dev/icons?i=sklearn,pytorch)](https://skillicons.dev) &nbsp;&nbsp; [![Tensorflow,GCP](https://skillicons.dev/icons?i=tensorflow,gcp)](https://skillicons.dev)
-</br>
-[![CPP,CS](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev) &nbsp;&nbsp; [![.NET,MYSQL](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev) &nbsp;&nbsp; [![Docker,Git](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp; [![GithubActions,AzureDevOps](https://go-skill-icons.vercel.app/api/icons?i=githubactions,azuredevops&theme=dark)](https://go-skill-icons.vercel.app)
-</br>
-[![Langchain,CrewAI](https://go-skill-icons.vercel.app/api/icons?i=langchain,crewai&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![Claude,Cursor](https://go-skill-icons.vercel.app/api/icons?i=claude,gemini&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![GitHubCopilot,Cursor](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor&theme=dark)](https://go-skill-icons.vercel.app) &nbsp;&nbsp; [![AWS,Azure](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark)](https://go-skill-icons.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,python,django,flask,fastapi,sklearn,pytorch,tensorflow)](https://skillicons.dev) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,docker,git,githubactions,azuredevops,langchain,crewai,claude,gemini,githubcopilot,cursor,gcp,aws,azure&theme=dark)](https://go-skill-icons.vercel.app)
 
 <h3>Certifications & Badges</h3>
 
