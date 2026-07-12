@@ -1,0 +1,11 @@
+id: langgraph-determinism
+persona: deterministic_graph_engineer
+input:
+  request: Generate deployment runbook for service-x.
+expected:
+  max_attempts: 3
+  must_include:
+    - rollback
+    - observability
+  human_interrupt_node: human_review
+
