@@ -5,6 +5,7 @@
 <p>💻 A Software Engineer focused on AI/ML and Full-Stack with an academic background,
 </br>
 residencies, and credentials across Google, Microsoft, Meta, and IBM.
+</br>
 </br>🌍 With a 97% task completion rate, I believe in staying curious, 
 </br> keeping code simple, and building things that work.</p>
 
