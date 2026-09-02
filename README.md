@@ -11,7 +11,7 @@ residencies, and credentials across Google, Microsoft, Meta, and IBM.
 
 <h3>Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,python,django,flask,fastapi,sklearn,pytorch,tensorflow)](https://skillicons.dev) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,docker,git,githubactions,azuredevops,langchain,crewai,claude,gemini,githubcopilot,cursor,gcp,aws,azure&theme=dark)](https://go-skill-icons.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,tailwind,scss,python,django,flask,fastapi,sklearn,pytorch,tensorflow)](https://skillicons.dev) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,mysql,docker,git,githubactions,azuredevops,langchain,crewai,claude,gemini,githubcopilot,cursor,gcp,aws,azure&theme=dark)](https://go-skill-icons.vercel.app)
 
 <h3>Certifications & Badges</h3>
 
