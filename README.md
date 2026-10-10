@@ -4,9 +4,7 @@
 
 <div align='center'>
 
-<p>💻 A <code><b>Software Engineer</b></code> focused on AI/ML and Full-Stack with an academic background,
-residencies, and credentials across Google, Microsoft, Meta, and IBM.
-🌍 With a 97% task completion rate, I believe in staying curious and building things that actually work for humans. 😊</p>
+<p>💻 A <code><b>Software Engineer</b></code> focused on AI/ML and Full-Stack with a solid academic foundation, global residencies, and credentials across Google, Microsoft, Meta, and IBM. 🌍 Backed by a 97% task execution rate, I’m always ready for a new challenge, staying relentlessly curious to build high-impact tools that actually work for humans. 😊</p>
 
 </div>
 
